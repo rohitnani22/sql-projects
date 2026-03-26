@@ -265,6 +265,8 @@ order by  avg_popularity desc ,avg_return_rate asc
 📌 Insight: Identifies winning categories — customers love them and rarely return them. Double down on these for marketing and inventory focus.
 
 ## Project 3 : Job Market SQL Analysis
+**📥 Datasets:** [Download from Google Drive](https://drive.google.com/drive/folders/1p42B_GR12Yj0WF4R3dbah2Q2oP9nOmxI?usp=drive_link)
+
  *SECTION 1: TEXT CLEANING*
  #### **Clean job titles: trim spaces, convert to proper format**
  ```sql
